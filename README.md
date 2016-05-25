@@ -8,5 +8,6 @@ As ChucK can only have one public class per file, runMaxCtl.ck adds all of the n
 * EMvibeReadTable_class.ck reads frequencies and MIDI note numbers from a text. Not used anymore; frequencies are hard coded
 * maxCtl.ck translates OSC messages (coming from Max) to the appropriate MIDI messages, defining things like envelopes, but also defining more complex behaviors. 
 * EMvibePerformanceInterface_new.maxpat is the main way the performer interacts with the EMvibe. It includes a pitch-tracker for detecting incoming audio, a matrix for assigning different effects to different notes on the instrument, and a display that gives the user feedback about the state of the instrument.
+* Other Max files define presets and different effects.
 
 NB Needless to say this software doesn't do much (anything, really) without the EMvibe itself. 
