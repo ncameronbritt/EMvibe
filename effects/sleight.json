@@ -1,0 +1,297 @@
+{
+	"pattrstorage" : 	{
+		"name" : "master",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"HarmonicToggle" : [ 0 ],
+					"delay_time" : [ 0 ],
+					"delay_toggle" : [ 0 ],
+					"fixed_dur" : [ 16.0 ],
+					"pulse_rate" : [ 750 ],
+					"pulse_toggle" : [ 0 ],
+					"toggle_lock" : [ 0 ],
+					"Sleight_effects::Sleight_DroneToggle1" : [ 0 ],
+					"Sleight_effects::Sleight_DroneToggle2" : [ 0 ],
+					"Sleight_effects::Sleight_Texture1_toggle" : [ 0 ],
+					"Sleight_effects::Sleight_Texture2_toggle" : [ 0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"HarmonicToggle" : [ 0 ],
+					"delay_time" : [ 0 ],
+					"delay_toggle" : [ 0 ],
+					"fixed_dur" : [ 16.0 ],
+					"pulse_rate" : [ 750 ],
+					"pulse_toggle" : [ 0 ],
+					"toggle_lock" : [ 0 ],
+					"Sleight_effects::Sleight_DroneToggle1" : [  ],
+					"Sleight_effects::Sleight_DroneToggle2" : [  ],
+					"Sleight_effects::Sleight_Texture1_toggle" : [  ],
+					"Sleight_effects::Sleight_Texture2_toggle" : [  ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"HarmonicToggle" : [ 0 ],
+					"delay_time" : [ 0 ],
+					"delay_toggle" : [ 0 ],
+					"fixed_dur" : [ 16.0 ],
+					"pulse_rate" : [ 750 ],
+					"pulse_toggle" : [ 0 ],
+					"toggle_lock" : [ 0 ],
+					"Sleight_effects::Sleight_DroneToggle1" : [  ],
+					"Sleight_effects::Sleight_DroneToggle2" : [  ],
+					"Sleight_effects::Sleight_Texture1_toggle" : [  ],
+					"Sleight_effects::Sleight_Texture2_toggle" : [  ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"HarmonicToggle" : [ 0 ],
+					"delay_time" : [ 0 ],
+					"delay_toggle" : [ 0 ],
+					"fixed_dur" : [ 6.0 ],
+					"pulse_rate" : [ 750 ],
+					"pulse_toggle" : [ 0 ],
+					"toggle_lock" : [ 0 ],
+					"Sleight_effects::Sleight_DroneToggle1" : [  ],
+					"Sleight_effects::Sleight_DroneToggle2" : [  ],
+					"Sleight_effects::Sleight_Texture1_toggle" : [  ],
+					"Sleight_effects::Sleight_Texture2_toggle" : [  ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"HarmonicToggle" : [ 0 ],
+					"delay_time" : [ 0 ],
+					"delay_toggle" : [ 0 ],
+					"fixed_dur" : [ 6.0 ],
+					"pulse_rate" : [ 750 ],
+					"pulse_toggle" : [ 0 ],
+					"toggle_lock" : [ 0 ],
+					"Sleight_effects::Sleight_DroneToggle1" : [  ],
+					"Sleight_effects::Sleight_DroneToggle2" : [  ],
+					"Sleight_effects::Sleight_Texture1_toggle" : [  ],
+					"Sleight_effects::Sleight_Texture2_toggle" : [  ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"data" : 				{
+					"HarmonicToggle" : [ 0 ],
+					"delay_time" : [ 0 ],
+					"delay_toggle" : [ 0 ],
+					"fixed_dur" : [ 6.0 ],
+					"pulse_rate" : [ 750 ],
+					"pulse_toggle" : [ 0 ],
+					"toggle_lock" : [ 0 ],
+					"Sleight_effects::Sleight_DroneToggle1" : [  ],
+					"Sleight_effects::Sleight_DroneToggle2" : [  ],
+					"Sleight_effects::Sleight_Texture1_toggle" : [  ],
+					"Sleight_effects::Sleight_Texture2_toggle" : [  ]
+				}
+
+			}
+,
+			"7" : 			{
+				"id" : 7,
+				"data" : 				{
+					"HarmonicToggle" : [ 0 ],
+					"delay_time" : [ 0 ],
+					"delay_toggle" : [ 0 ],
+					"fixed_dur" : [ 6.0 ],
+					"pulse_rate" : [ 750 ],
+					"pulse_toggle" : [ 1 ],
+					"toggle_lock" : [ 0 ],
+					"Sleight_effects::Sleight_DroneToggle1" : [  ],
+					"Sleight_effects::Sleight_DroneToggle2" : [  ],
+					"Sleight_effects::Sleight_Texture1_toggle" : [  ],
+					"Sleight_effects::Sleight_Texture2_toggle" : [  ]
+				}
+
+			}
+,
+			"8" : 			{
+				"id" : 8,
+				"data" : 				{
+					"HarmonicToggle" : [ 0 ],
+					"delay_time" : [ 0 ],
+					"delay_toggle" : [ 0 ],
+					"fixed_dur" : [ 4.7 ],
+					"pulse_rate" : [ 750 ],
+					"pulse_toggle" : [ 0 ],
+					"toggle_lock" : [ 0 ],
+					"Sleight_effects::Sleight_DroneToggle1" : [  ],
+					"Sleight_effects::Sleight_DroneToggle2" : [  ],
+					"Sleight_effects::Sleight_Texture1_toggle" : [  ],
+					"Sleight_effects::Sleight_Texture2_toggle" : [  ]
+				}
+
+			}
+,
+			"9" : 			{
+				"id" : 9,
+				"data" : 				{
+					"HarmonicToggle" : [ 0 ],
+					"delay_time" : [ 0 ],
+					"delay_toggle" : [ 0 ],
+					"fixed_dur" : [ 4.7 ],
+					"pulse_rate" : [ 750 ],
+					"pulse_toggle" : [ 1 ],
+					"toggle_lock" : [ 0 ],
+					"Sleight_effects::Sleight_DroneToggle1" : [  ],
+					"Sleight_effects::Sleight_DroneToggle2" : [  ],
+					"Sleight_effects::Sleight_Texture1_toggle" : [  ],
+					"Sleight_effects::Sleight_Texture2_toggle" : [  ]
+				}
+
+			}
+,
+			"10" : 			{
+				"id" : 10,
+				"data" : 				{
+					"HarmonicToggle" : [ 0 ],
+					"delay_time" : [ 0 ],
+					"delay_toggle" : [ 0 ],
+					"fixed_dur" : [ 4.7 ],
+					"pulse_rate" : [ 750 ],
+					"pulse_toggle" : [ 0 ],
+					"toggle_lock" : [ 0 ],
+					"Sleight_effects::Sleight_DroneToggle1" : [  ],
+					"Sleight_effects::Sleight_DroneToggle2" : [  ],
+					"Sleight_effects::Sleight_Texture1_toggle" : [  ],
+					"Sleight_effects::Sleight_Texture2_toggle" : [  ]
+				}
+
+			}
+,
+			"11" : 			{
+				"id" : 11,
+				"data" : 				{
+					"HarmonicToggle" : [ 0 ],
+					"delay_time" : [ 0 ],
+					"delay_toggle" : [ 0 ],
+					"fixed_dur" : [ 4.7 ],
+					"pulse_rate" : [ 750 ],
+					"pulse_toggle" : [ 0 ],
+					"toggle_lock" : [ 0 ],
+					"Sleight_effects::Sleight_DroneToggle1" : [  ],
+					"Sleight_effects::Sleight_DroneToggle2" : [  ],
+					"Sleight_effects::Sleight_Texture1_toggle" : [  ],
+					"Sleight_effects::Sleight_Texture2_toggle" : [  ]
+				}
+
+			}
+,
+			"12" : 			{
+				"id" : 12,
+				"data" : 				{
+					"HarmonicToggle" : [ 0 ],
+					"delay_time" : [ 0 ],
+					"delay_toggle" : [ 0 ],
+					"fixed_dur" : [ 13.0 ],
+					"pulse_rate" : [ 750 ],
+					"pulse_toggle" : [ 0 ],
+					"toggle_lock" : [ 0 ],
+					"Sleight_effects::Sleight_DroneToggle1" : [  ],
+					"Sleight_effects::Sleight_DroneToggle2" : [  ],
+					"Sleight_effects::Sleight_Texture1_toggle" : [  ],
+					"Sleight_effects::Sleight_Texture2_toggle" : [  ]
+				}
+
+			}
+,
+			"13" : 			{
+				"id" : 13,
+				"data" : 				{
+					"HarmonicToggle" : [ 0 ],
+					"delay_time" : [ 0 ],
+					"delay_toggle" : [ 0 ],
+					"fixed_dur" : [ 13.0 ],
+					"pulse_rate" : [ 750 ],
+					"pulse_toggle" : [ 0 ],
+					"toggle_lock" : [ 0 ],
+					"Sleight_effects::Sleight_DroneToggle1" : [  ],
+					"Sleight_effects::Sleight_DroneToggle2" : [  ],
+					"Sleight_effects::Sleight_Texture1_toggle" : [  ],
+					"Sleight_effects::Sleight_Texture2_toggle" : [  ]
+				}
+
+			}
+,
+			"14" : 			{
+				"id" : 14,
+				"data" : 				{
+					"HarmonicToggle" : [ 0 ],
+					"delay_time" : [ 0 ],
+					"delay_toggle" : [ 0 ],
+					"fixed_dur" : [ 13.0 ],
+					"pulse_rate" : [ 750 ],
+					"pulse_toggle" : [ 0 ],
+					"toggle_lock" : [ 0 ],
+					"Sleight_effects::Sleight_DroneToggle1" : [  ],
+					"Sleight_effects::Sleight_DroneToggle2" : [  ],
+					"Sleight_effects::Sleight_Texture1_toggle" : [  ],
+					"Sleight_effects::Sleight_Texture2_toggle" : [  ]
+				}
+
+			}
+,
+			"15" : 			{
+				"id" : 15,
+				"data" : 				{
+					"HarmonicToggle" : [ 0 ],
+					"delay_time" : [ 0 ],
+					"delay_toggle" : [ 0 ],
+					"fixed_dur" : [ 20.0 ],
+					"pulse_rate" : [ 750 ],
+					"pulse_toggle" : [ 0 ],
+					"toggle_lock" : [ 0 ],
+					"Sleight_effects::Sleight_DroneToggle1" : [  ],
+					"Sleight_effects::Sleight_DroneToggle2" : [  ],
+					"Sleight_effects::Sleight_Texture1_toggle" : [  ],
+					"Sleight_effects::Sleight_Texture2_toggle" : [  ]
+				}
+
+			}
+,
+			"16" : 			{
+				"id" : 16,
+				"data" : 				{
+					"HarmonicToggle" : [ 0 ],
+					"delay_time" : [ 0 ],
+					"delay_toggle" : [ 0 ],
+					"fixed_dur" : [ 16.0 ],
+					"pulse_rate" : [ 750 ],
+					"pulse_toggle" : [ 0 ],
+					"toggle_lock" : [ 0 ],
+					"Sleight_effects::Sleight_DroneToggle1" : [ 0 ],
+					"Sleight_effects::Sleight_DroneToggle2" : [ 0 ],
+					"Sleight_effects::Sleight_Texture1_toggle" : [ 0 ],
+					"Sleight_effects::Sleight_Texture2_toggle" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
